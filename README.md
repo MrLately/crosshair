@@ -1,4 +1,5 @@
 Crosshair Overlay Tool
+
 Overview
 The Crosshair Overlay Tool is a customizable on-screen crosshair designed to enhance aiming in various applications or games. It provides an easily accessible overlay with several customization options.
 
@@ -14,9 +15,11 @@ Using the Executable File
 No Python Needed: Simply download the .exe file and run it. This is the easiest method for most users.
 Executable Built with PyInstaller: The .exe file is created using PyInstaller for ease of use.
 Using the Python Script
+
 For Python Users: If you have Python installed, you can download or copy the .pyw file.
 Library Requirements: Make sure to install necessary libraries using pip install.
 Source Code Inspection: The .pyw file is available for those who want to inspect or modify the source code.
+
 Screenshots
 Here are some screenshots demonstrating the tool in action:
 
