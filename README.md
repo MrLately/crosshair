@@ -7,9 +7,14 @@ The Crosshair Overlay Tool is a customizable on-screen crosshair designed to enh
 Features
 
 Multiple Crosshair Designs: Choose from several crosshair designs including standard, with gaps, circle, and dot.
+
 Color Customization: Easily change the color of your crosshair to suit your preference or to contrast against different backgrounds.
+
 Size Adjustment: Increase or decrease the size of your crosshair for optimal visibility.
+
 On-Screen Control Panel: A simple control panel allows you to toggle the crosshair on/off, adjust size, switch designs, and change colors.
+
+Note for fortnite: had to put on windowed fullscreen in settings.
 
 Installation
 
